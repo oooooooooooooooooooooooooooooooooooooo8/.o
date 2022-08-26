@@ -1,4 +1,21 @@
+{
+
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/0820.jar;md5;F49657B939A9134AD6B947CCB9390E99",
+
 "sites": [
-{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
-]
+
+{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+},
+
+{"key":"csp_CZSPP","name":"🐞厂长资源","
+
+{"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key":"csp_app_金叶影院","name":"🐌金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"}
+
+]}
+
+
