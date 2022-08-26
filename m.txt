@@ -4,7 +4,7 @@
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/0820.jar;md5;F49657B939A9134AD6B947CCB9390E99",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"g","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"g","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🐞Libvio","type": 3,"api": "csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
